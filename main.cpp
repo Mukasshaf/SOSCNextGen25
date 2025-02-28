@@ -9,6 +9,7 @@ int factorial(int n)
         result *= i;
         
     }
+    
     return result;
 }
 
